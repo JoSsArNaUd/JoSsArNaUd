@@ -34,6 +34,7 @@ ICT-Berufsbildung Schweiz Training — Switzerland
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoSsArNaUd/JoSsArNaUd/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/JoSsArNaUd/JoSsArNaUd/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
 ---
 
 ## 📫 Contact
