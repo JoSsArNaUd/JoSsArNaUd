@@ -23,7 +23,12 @@ ICT-Berufsbildung Schweiz Training — Switzerland
 
 ## 📈 My GitHub Stats
 
-![Josselin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSsArNaUd\&show_icons=true\&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoSsArNaUd&show_icons=true&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JoSsArNaUd&show_icons=true&theme=transparent" />
+  <img alt="github-snake" src="https://github-readme-stats.vercel.app/api?username=JoSsArNaUd&show_icons=true&theme=transparent" />
+</picture>
+
 
 ---
 
