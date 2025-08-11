@@ -1,4 +1,6 @@
-# Hi, I'm Josselin Arnaud👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=0:FCB6D0,20:F4BBBB,40:E3A6AE,60:FFA883,80:FD866E,100:F25C6E&text=Hi,%20I'm%20Josselin%20Arnaud%20👋%20!&height=250&fontAlignY=40"/>
+</p>
 
 Apprentice IT Technician at the School of Engineering and Architecture of Fribourg (HEIA-FR)
 ICT-Berufsbildung Schweiz Training — Switzerland
@@ -105,3 +107,7 @@ ICT-Berufsbildung Schweiz Training — Switzerland
 ---
 
 Thanks for visiting, feel free to reach out! 🚀
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:FCB6D0,20:F4BBBB,40:E3A6AE,60:FFA883,80:FD866E,100:F25C6E"/>
+</p>
