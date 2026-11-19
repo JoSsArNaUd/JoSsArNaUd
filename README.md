@@ -91,7 +91,7 @@ ICT-Berufsbildung Schweiz Training — Switzerland
 ## 🐠 Koi
 
 <p align="center">
-  <img src="koi/koi.gif" width="100%" alt="Mon koi" />
+  <img src="koi/koi.gif" width="50%" alt="Mon koi" />
 </p>
 
 ## 📫 Contact
