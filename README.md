@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/JoSsArNaUd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F25C6E&center=true&vCenter=true&width=520&lines=Apprentice+IT+Technician+%40+HEIA-FR;Vue+%C2%B7+Nuxt+%C2%B7+TypeScript+%C2%B7+Docker;From+Fribourg%2C+Switzerland+%F0%9F%87%A8%F0%9F%87%AD;docker+run+josselin%2Farnaud" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F25C6E&center=true&vCenter=true&width=520&lines=Engineering+student+%40+HEIA-FR;Vue+%C2%B7+Nuxt+%C2%B7+TypeScript+%C2%B7+Docker;From+Fribourg%2C+Switzerland+%F0%9F%87%A8%F0%9F%87%AD;docker+run+josselin%2Farnaud" alt="Typing intro" />
   </a>
 </p>
 
@@ -17,9 +17,9 @@ Instead of a bio, here's the recipe:
 ```dockerfile
 FROM switzerland/fribourg:bilingual
 
-LABEL role="Apprentice IT Technician" \
+LABEL role="Engineering student" \
       school="HEIA-FR — School of Engineering and Architecture of Fribourg" \
-      training="ICT-Berufsbildung Schweiz"
+      previously="Apprentice IT Technician (ICT-Berufsbildung Schweiz)"
 
 WORKDIR /home/josselin
 
