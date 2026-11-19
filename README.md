@@ -88,6 +88,10 @@ ICT-Berufsbildung Schweiz Training — Switzerland
 
 ---
 
+## Koi
+
+<img src="koi/koi.gif" width="256" alt="My koi">
+
 ## 📫 Contact
 
 * [LinkedIn](www.linkedin.com/in/josselin-arnaud-1bb02b2b1)
