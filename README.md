@@ -62,7 +62,6 @@ My contribution graph keeps two pets alive. The more I commit, the better they e
 <p align="center">
   <img src="koi/koi.gif" width="45%" alt="Today's koi, drawn from my contributions" />
   <br>
-  <sub>🐍 the snake eats my commits · 🐠 a new koi is drawn every night from the day's activity</sub>
 </p>
 
 ---
@@ -75,7 +74,7 @@ My contribution graph keeps two pets alive. The more I commit, the better they e
   </a>
 </p>
 
-Thanks for stopping by. Ports are open, feel free to reach out! 🚀
+Thanks for stopping by. Ports are open, feel free to reach out !
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:FCB6D0,20:F4BBBB,40:E3A6AE,60:FFA883,80:FD866E,100:F25C6E"/>
